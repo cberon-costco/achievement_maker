@@ -14,7 +14,7 @@ GEM
     kgio (2.9.2)
     multipart-post (1.1.4)
     rack (1.6.13)
-    rack-protection (1.1.4)
+    rack-protection (1.5.5)
       rack
     raindrops (0.13.0)
     rmagick (2.13.4)
